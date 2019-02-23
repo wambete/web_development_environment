@@ -18,6 +18,7 @@
   "homepage": "https://github.com/wambete/web_development_environment#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
-    "babel-preset-env": "^1.7.0"
+    "babel-preset-env": "^1.7.0",
+    "gulp": "^4.0.0"
   }
 }
