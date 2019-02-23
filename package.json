@@ -1,0 +1,23 @@
+{
+  "name": "alc_project",
+  "version": "1.0.0",
+  "description": "project dependencies",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wambete/web_development_environment.git"
+  },
+  "author": "wambete soita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wambete/web_development_environment/issues"
+  },
+  "homepage": "https://github.com/wambete/web_development_environment#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  }
+}
